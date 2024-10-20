@@ -1,1 +1,1 @@
-An npm package to convert currency
+An npm package to convert currency.
